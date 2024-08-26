@@ -6,6 +6,7 @@
 <project path="vendor/vndk-tests" name="phhusson/vendor_vndk-tests" remote="github" revision="master" />
 <project path="vendor/lptools" name="phhusson/vendor_lptools" remote="github" revision="master" />
 <project path="vendor/magisk" name="phhusson/vendor_magisk" remote="github" revision="android-10.0" />
+<project path="treble_app" name="treble_app" remote="trebledroid" revision="master" clone-depth="1" />
 
 <project path="packages/apps/QcRilAm" name="AndyCGYan/android_packages_apps_QcRilAm" remote="github" revision="master" />
 
