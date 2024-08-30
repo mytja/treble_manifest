@@ -22,5 +22,4 @@
 <project path="packages/apps/AuroraStorePrivilegedExtension" name="CalyxOS/platform_packages_apps_AuroraStorePrivilegedExtension" remote="github" revision="android14" clone-depth="1" />
 <project path="packages/apps/F-DroidPrivilegedExtension" name="CalyxOS/platform_packages_apps_F-DroidPrivilegedExtension" remote="github" revision="android14" clone-depth="1" />
 <project path="packages/apps/OpenEUICC" name="LMODroid/platform_packages_apps_OpenEUICC" remote="github" revision="fourteen" clone-depth="1" />
-<project path="prebuilts/openeuicc-deps" name="PeterCxy/android_prebuilts_openeuicc-deps" remote="angryim" revision="master" clone-depth="1" />
 </manifest>
