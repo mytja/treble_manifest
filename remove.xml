@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="device/google" />
+  <remove-project name="device/google_car" />
+  <remove-project name="prebuilts/android-emulator" />
+</manifest>
