@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="device/google" />
+  <remove-project name="device/google/atv" />
+  <remove-project name="device/google/contexthub" />
+  <remove-project name="device/google/vrservices" />
   <remove-project name="device/google_car" />
   <remove-project name="prebuilts/android-emulator" />
 </manifest>
