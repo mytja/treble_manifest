@@ -15,4 +15,5 @@
 <project path="device/mytja/evo" name="mytja/treble_evo" remote="github" revision="vic" clone-depth="1" />
 
 <project path="packages/apps/OpenEUICC" name="PeterCxy/OpenEUICC" remote="angryim" revision="master" clone-depth="1" sync-s="true" />
+<project path="prebuilts/openeuicc-deps" name="PeterCxy/android_prebuilts_openeuicc-deps" remote="angryim" revision="master" clone-depth="1" />
 </manifest>
