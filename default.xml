@@ -9,11 +9,11 @@
 <project path="treble_app" name="TrebleDroid/treble_app" remote="github" revision="master" clone-depth="1" />
 <project path="packages/apps/QcRilAm" name="AndyCGYan/android_packages_apps_QcRilAm" remote="github" revision="master" clone-depth="1" />
 
-<project path="prebuilts/vndk/v28" name="mytja/prebuilts_vndk_v28" remote="github" revision="master" clone-depth="1" />
+<project path="prebuilts/vndk/v28" name="platform/prebuilts_vndk_v28" remote="aosp" revision="1cb210981d2baf325aaab36cdd84afa40c775f00" clone-depth="1" />
 <project path="prebuilts/vndk/v29" name="platform/prebuilts/vndk/v29" remote="aosp" revision="2e659f04a7cde964415c82dd7507610769165408" clone-depth="1" />
   
-<project path="patches" name="mytja/treble_pixelos_patches" remote="github" revision="sixteen" clone-depth="1" />
-<project path="device/mytja/pixelos" name="mytja/treble_pixelos" remote="github" revision="sixteen" clone-depth="1" />
+<project path="patches" name="Doze-off/patches" remote="github" revision="patches-16" clone-depth="1" />
+<project path="device/SewqPL/pixelos" name="SewqPL/treble_pixelos" remote="github" revision="sixteen" clone-depth="1" />
 
 <project path="packages/apps/OpenEUICC" name="PeterCxy/OpenEUICC" remote="angryim" revision="master" clone-depth="1" sync-s="true" />
 <project path="prebuilts/openeuicc-deps" name="PeterCxy/android_prebuilts_openeuicc-deps" remote="angryim" revision="master" clone-depth="1" />
